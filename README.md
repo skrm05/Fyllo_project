@@ -73,7 +73,7 @@ To run this project, You’ll need to have
 
 1. Clone the repo
    ```sh
-   git clone https://ankitsingh_16@bitbucket.org/ankitsingh_16/fertilizer.git
+https://github.com/skrm05/Fyllo_project
    ```
 2. Install packages
    ```sh
