@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1 style="color: #60AC4A;">
-    Fyllo Interview Task
+    Fyllo
   </h1>
 
   <p align="center">
@@ -73,7 +73,7 @@ To run this project, You’ll need to have
 
 1. Clone the repo
    ```sh
-https://github.com/skrm05/Fyllo_project
+   https://github.com/skrm05/Fyllo_project
    ```
 2. Install packages
    ```sh
